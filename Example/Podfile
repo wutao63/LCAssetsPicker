@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LCAssetsPicker_Example' do
+  pod 'LCAssetsPicker', :path => '../'
+
+  target 'LCAssetsPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

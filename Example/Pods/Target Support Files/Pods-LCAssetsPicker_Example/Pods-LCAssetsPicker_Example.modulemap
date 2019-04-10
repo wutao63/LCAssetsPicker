@@ -1,0 +1,6 @@
+framework module Pods_LCAssetsPicker_Example {
+  umbrella header "Pods-LCAssetsPicker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

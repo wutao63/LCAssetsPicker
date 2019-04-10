@@ -1,0 +1,6 @@
+framework module LCAssetsPicker {
+  umbrella header "LCAssetsPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

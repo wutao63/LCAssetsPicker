@@ -1,0 +1,16 @@
+PODS:
+  - LCAssetsPicker (0.1.0)
+
+DEPENDENCIES:
+  - LCAssetsPicker (from `../`)
+
+EXTERNAL SOURCES:
+  LCAssetsPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCAssetsPicker: 94f6133a62e46e13ce9307c8e0c558399afcf239
+
+PODFILE CHECKSUM: e96ac89e9ecedf0cc54d83316eeda82d0b53fa0d
+
+COCOAPODS: 1.6.0.beta.2
